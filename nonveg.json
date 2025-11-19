@@ -1,0 +1,260 @@
+{
+  "category_name": "Non-Veg",
+  "items": [
+    {
+      "id": 1,
+      "name": "Chicken Biryani ",
+      "images": ["nonveg/1.jpeg", "nonveg/2.jpeg"],
+      "selling_price": 180,
+      "original_price": 220,
+      "quantity": "1 plate",
+      "ingredients": ["Chicken", "Basmati Rice", "Spices", "Onion", "Oil"],
+      "nutrition": { "calories": 650, "protein": 35, "fats": 20, "carbs": 70 }
+    },
+    {
+      "id": 2,
+      "name": "Chicken Biryani",
+      "images": ["nonveg/1.jpeg", "nonveg/2.jpeg"],
+      "selling_price": 100,
+      "original_price": 120,
+      "quantity": "1/2 plate",
+      "ingredients": ["Chicken", "Basmati Rice", "Spices", "Onion", "Oil"],
+      "nutrition": { "calories": 325, "protein": 17, "fats": 10, "carbs": 35 }
+    },
+
+    {
+      "id": 3,
+      "name": "Fry Piece  Biryani ",
+      "images": ["nonveg/3.jpeg", "nonveg/4.jpeg"],
+      "selling_price": 180,
+      "original_price": 220,
+      "quantity": "1 plate",
+      "ingredients": ["Chicken Fry Piece", "Basmati Rice", "Spices", "Onion"],
+      "nutrition": { "calories": 700, "protein": 38, "fats": 22, "carbs": 72 }
+    },
+    {
+      "id": 4,
+      "name": "Fry Piece Biryani ",
+      "images": ["nonveg/3.jpeg", "nonveg/4.jpeg"],
+      "selling_price": 90,
+      "original_price": 110,
+      "quantity": "1/2 plate",
+      "ingredients": ["Chicken Fry Piece", "Basmati Rice", "Spices", "Onion"],
+      "nutrition": { "calories": 350, "protein": 19, "fats": 11, "carbs": 36 }
+    },
+
+    {
+      "id": 5,
+      "name": "Chicken Dum Biryani",
+      "images": ["nonveg/5.jpeg", "nonveg/6.jpeg"],
+      "selling_price": 190,
+      "original_price": 230,
+      "quantity": "1 plate",
+      "ingredients": ["Chicken", "Dum Rice", "Ghee", "Spices"],
+      "nutrition": { "calories": 720, "protein": 40, "fats": 22, "carbs": 75 }
+    },
+    {
+      "id": 6,
+      "name": "Chicken Dum Biryani ",
+      "images": ["nonveg/5.jpeg", "nonveg/6.jpeg"],
+      "selling_price": 110,
+      "original_price": 135,
+      "quantity": "1/2 plate",
+      "ingredients": ["Chicken", "Dum Rice", "Ghee", "Spices"],
+      "nutrition": { "calories": 360, "protein": 20, "fats": 11, "carbs": 37 }
+    },
+
+    {
+      "id": 7,
+      "name": "Mutton Biryani ",
+      "images": ["nonveg/7.jpeg", "nonveg/8.jpeg"],
+      "selling_price": 300,
+      "original_price": 360,
+      "quantity": "1 plate",
+      "ingredients": ["Mutton", "Basmati Rice", "Spices", "Oil"],
+      "nutrition": { "calories": 850, "protein": 45, "fats": 30, "carbs": 78 }
+    },
+    {
+      "id": 8,
+      "name": "Mutton Biryani ",
+      "images": ["nonveg/7.jpeg", "nonveg/8.jpeg"],
+      "selling_price": 200,
+      "original_price": 240,
+      "quantity": "1/2 plate",
+      "ingredients": ["Mutton", "Basmati Rice", "Spices", "Oil"],
+      "nutrition": { "calories": 425, "protein": 22, "fats": 15, "carbs": 39 }
+    },
+
+    {
+      "id": 9,
+      "name": "Egg Biryani ",
+      "images": ["nonveg/9.jpeg", "nonveg/10.jpeg"],
+      "selling_price": 150,
+      "original_price": 180,
+      "quantity": "1 plate",
+      "ingredients": ["Egg", "Basmati Rice", "Masala", "Onion"],
+      "nutrition": { "calories": 600, "protein": 25, "fats": 18, "carbs": 65 }
+    },
+    {
+      "id": 10,
+      "name": "Egg Biryani ",
+      "images": ["nonveg/9.jpeg", "nonveg/10.jpeg"],
+      "selling_price": 70,
+      "original_price": 85,
+      "quantity": "1/2 plate",
+      "ingredients": ["Egg", "Basmati Rice", "Masala", "Onion"],
+      "nutrition": { "calories": 300, "protein": 12, "fats": 9, "carbs": 32 }
+    },
+
+    {
+      "id": 11,
+      "name": "Chicken Fry ",
+      "images": ["nonveg/11.jpeg", "nonveg/12.jpeg"],
+      "selling_price": 150,
+      "original_price": 180,
+      "quantity": "1 plate",
+      "ingredients": ["Chicken", "Oil", "Masala", "Curry Leaves"],
+      "nutrition": { "calories": 500, "protein": 35, "fats": 28, "carbs": 12 }
+    },
+    {
+      "id": 12,
+      "name": "Chicken Fry",
+      "images": ["nonveg/11.jpeg", "nonveg/12.jpeg"],
+      "selling_price": 70,
+      "original_price": 85,
+      "quantity": "1/2 plate",
+      "ingredients": ["Chicken", "Oil", "Masala", "Curry Leaves"],
+      "nutrition": { "calories": 250, "protein": 17, "fats": 14, "carbs": 6 }
+    },
+
+    {
+      "id": 13,
+      "name": "Chicken 65 ",
+      "images": ["nonveg/13.jpeg", "nonveg/14.jpeg"],
+      "selling_price": 200,
+      "original_price": 240,
+      "quantity": "1 plate",
+      "ingredients": ["Chicken", "Corn Flour", "Spices", "Oil"],
+      "nutrition": { "calories": 550, "protein": 30, "fats": 32, "carbs": 20 }
+    },
+    {
+      "id": 14,
+      "name": "Chicken 65 ",
+      "images": ["nonveg/13.jpeg", "nonveg/14.jpeg"],
+      "selling_price": 110,
+      "original_price": 135,
+      "quantity": "1/2 plate",
+      "ingredients": ["Chicken", "Corn Flour", "Spices", "Oil"],
+      "nutrition": { "calories": 275, "protein": 15, "fats": 16, "carbs": 10 }
+    },
+
+    {
+      "id": 15,
+      "name": "Mutton Curry",
+      "images": ["nonveg/15.jpeg", "nonveg/16.jpeg"],
+      "selling_price": 110,
+      "original_price": 135,
+      "quantity": "1 plate",
+      "ingredients": ["Mutton", "Spices", "Onion", "Oil"],
+      "nutrition": { "calories": 450, "protein": 30, "fats": 25, "carbs": 10 }
+    },
+
+    {
+      "id": 16,
+      "name": "Fish Fry ",
+      "images": ["nonveg/17.jpeg", "nonveg/18.jpeg"],
+      "selling_price": 90,
+      "original_price": 110,
+      "quantity": "1 plate",
+      "ingredients": ["Fish", "Oil", "Masala"],
+      "nutrition": { "calories": 300, "protein": 28, "fats": 15, "carbs": 10 }
+    },
+
+    {
+      "id": 17,
+      "name": "Fish Curry ",
+      "images": ["nonveg/19.jpeg", "nonveg/20.jpeg"],
+      "selling_price": 130,
+      "original_price": 155,
+      "quantity": "1 plate",
+      "ingredients": ["Fish", "Tamarind", "Spices", "Oil"],
+      "nutrition": { "calories": 350, "protein": 30, "fats": 18, "carbs": 12 }
+    },
+
+    {
+      "id": 18,
+      "name": "Prawns Fry",
+      "images": ["nonveg/21.jpeg", "nonveg/22.jpeg"],
+      "selling_price": 140,
+      "original_price": 170,
+      "quantity": "1 plate",
+      "ingredients": ["Prawns", "Masala", "Oil"],
+      "nutrition": { "calories": 320, "protein": 28, "fats": 10, "carbs": 8 }
+    },
+
+    {
+      "id": 19,
+      "name": "Prawns Curry",
+      "images": ["nonveg/23.jpeg", "nonveg/24.jpeg"],
+      "selling_price": 180,
+      "original_price": 220,
+      "quantity": "1 plate",
+      "ingredients": ["Prawns", "Spices", "Onion", "Oil"],
+      "nutrition": { "calories": 380, "protein": 30, "fats": 18, "carbs": 15 }
+    },
+
+    {
+      "id": 20,
+      "name": "Egg Curry ",
+      "images": ["nonveg/25.jpeg", "nonveg/26.jpeg"],
+      "selling_price": 50,
+      "original_price": 60,
+      "quantity": "1 plate",
+      "ingredients": ["Egg", "Onion", "Masala"],
+      "nutrition": { "calories": 220, "protein": 12, "fats": 14, "carbs": 6 }
+    },
+
+    {
+      "id": 21,
+      "name": "Chicken Lollipop ",
+      "images": ["nonveg/27.jpeg", "nonveg/28.jpeg"],
+      "selling_price": 180,
+      "original_price": 220,
+      "quantity": "1 plate",
+      "ingredients": ["Chicken", "Flour", "Spices", "Oil"],
+      "nutrition": { "calories": 480, "protein": 30, "fats": 25, "carbs": 15 }
+    },
+    {
+      "id": 22,
+      "name": "Chicken Lollipop ",
+      "images": ["nonveg/27.jpeg", "nonveg/28.jpeg"],
+      "selling_price": 100,
+      "original_price": 120,
+      "quantity": "1/2 plate",
+      "ingredients": ["Chicken", "Flour", "Spices", "Oil"],
+      "nutrition": { "calories": 240, "protein": 15, "fats": 12, "carbs": 7 }
+    },
+
+    {
+      "id": 23,
+      "name": "Tandoori Chicken",
+      "images": ["nonveg/29.jpeg", "nonveg/30.jpeg"],
+      "selling_price": 200,
+      "original_price": 240,
+      "quantity": "1 full",
+      "ingredients": ["Chicken", "Yogurt", "Spices", "Oil"],
+      "nutrition": { "calories": 600, "protein": 45, "fats": 28, "carbs": 8 }
+    },
+    {
+  "id": 24,
+  "name": "Chicken Fried Rice",
+  "images": ["nonveg/31.jpeg", "nonveg/32.jpeg"],
+  "selling_price": 140,
+  "original_price": 170,
+  "quantity": "1 plate",
+  "ingredients": ["Chicken", "Rice", "Egg", "Soy Sauce", "Vegetables", "Oil"],
+  "nutrition": { "calories": 550, "protein": 28, "fats": 18, "carbs": 65 }
+}
+
+  ]
+}
