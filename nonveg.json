@@ -257,7 +257,7 @@
 },{
       "id": 25,
       "name": "Veg Biryani (Full)",
-      "images": ["vegfood/33.jpeg", "vegfood/34.jpeg"],
+      "images": ["nonveg/33.jpeg", "nonveg/34.jpeg"],
       "selling_price": 130,
       "original_price": 155,
       "quantity": "1 plate",
@@ -267,7 +267,7 @@
     {
       "id": 26,
       "name": "Veg Biryani (Half)",
-      "images": ["vegfood/33.jpeg", "vegfood/34.jpeg"],
+      "images": ["nonveg/33.jpeg", "nonveg/34.jpeg"],
       "selling_price": 80,
       "original_price": 95,
       "quantity": "1/2 plate",
@@ -278,7 +278,7 @@
     {
       "id": 27,
       "name": "Paneer Biryani (Full)",
-      "images": ["vegfood/35.jpeg", "vegfood/36.jpeg"],
+      "images": ["nonveg/35.jpeg", "nonveg/36.jpeg"],
       "selling_price": 180,
       "original_price": 220,
       "quantity": "1 plate",
@@ -288,7 +288,7 @@
     {
       "id": 28,
       "name": "Paneer Biryani (Half)",
-      "images": ["vegfood/35.jpeg", "vegfood/36.jpeg"],
+      "images": ["nonveg/35.jpeg", "nonveg/36.jpeg"],
       "selling_price": 100,
       "original_price": 120,
       "quantity": "1/2 plate",
@@ -299,7 +299,7 @@
     {
       "id": 29,
       "name": "Mushroom Biryani (Full)",
-      "images": ["vegfood/37.jpeg", "vegfood/38.jpeg"],
+      "images": ["nonveg/37.jpeg", "nonveg/38.jpeg"],
       "selling_price": 210,
       "original_price": 250,
       "quantity": "1 plate",
@@ -309,7 +309,7 @@
     {
       "id": 30,
       "name": "Mushroom Biryani (Half)",
-      "images": ["vegfood/37.jpeg", "vegfood/38.jpeg"],
+      "images": ["nonveg/37.jpeg", "nonveg/38.jpeg"],
       "selling_price": 120,
       "original_price": 145,
       "quantity": "1/2 plate",
@@ -320,7 +320,7 @@
     {
       "id": 31,
       "name": "Veg Fried Rice (Full)",
-      "images": ["vegfood/39.jpeg", "vegfood/40.jpeg"],
+      "images": ["nonveg/39.jpeg", "nonveg/40.jpeg"],
       "selling_price": 100,
       "original_price": 120,
       "quantity": "1 plate",
@@ -331,7 +331,7 @@
     {
       "id": 32,
       "name": "Veg Noodles (Full)",
-      "images": ["vegfood/41.jpeg", "vegfood/42.jpeg"],
+      "images": ["nonveg/41.jpeg", "nonveg/42.jpeg"],
       "selling_price": 120,
       "original_price": 145,
       "quantity": "1 plate",
@@ -342,7 +342,7 @@
     {
       "id": 33,
       "name": "Veg Palav (Full)",
-      "images": ["vegfood/43.jpeg", "vegfood/44.jpeg"],
+      "images": ["nonveg/43.jpeg", "nonveg/44.jpeg"],
       "selling_price": 110,
       "original_price": 130,
       "quantity": "1 plate",
@@ -353,7 +353,7 @@
     {
       "id": 34,
       "name": "Cashew Veg Biryani (Full)",
-      "images": ["vegfood/45.jpeg", "vegfood/46.jpeg"],
+      "images": ["nonveg/45.jpeg", "nonveg/46.jpeg"],
       "selling_price": 180,
       "original_price": 220,
       "quantity": "1 plate",
@@ -363,7 +363,7 @@
     {
       "id": 35,
       "name": "Soya Chunk Biryani (Full)",
-      "images": ["vegfood/47.jpg", "vegfood/48.jpg"],
+      "images": ["nonveg/47.jpg", "nonveg/48.jpg"],
       "selling_price": 150,
       "original_price": 200,
       "quantity": "1 plate",
@@ -373,7 +373,7 @@
     {
       "id": 36,
       "name": "Mixed Veg Biryani (Full)",
-      "images": ["vegfood/49.jpg", "vegfood/50.jpg"],
+      "images": ["nonveg/49.jpg", "nonveg/50.jpg"],
       "selling_price": 180,
       "original_price": 220,
       "quantity": "1 plate",
@@ -383,4 +383,5 @@
 
   ]
 }
+
 
