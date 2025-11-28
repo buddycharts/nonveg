@@ -254,7 +254,133 @@
   "quantity": "1 plate",
   "ingredients": ["Chicken", "Rice", "Egg", "Soy Sauce", "Vegetables", "Oil"],
   "nutrition": { "calories": 550, "protein": 28, "fats": 18, "carbs": 65 }
-}
+},{
+      "id": 25,
+      "name": "Veg Biryani (Full)",
+      "images": ["vegfood/33.jpeg", "vegfood/34.jpeg"],
+      "selling_price": 130,
+      "original_price": 155,
+      "quantity": "1 plate",
+      "ingredients": ["Rice", "Mixed Vegetables", "Spices", "Oil"],
+      "nutrition": { "calories": 550, "protein": 12, "fats": 10, "carbs": 80 }
+    },
+    {
+      "id": 26,
+      "name": "Veg Biryani (Half)",
+      "images": ["vegfood/33.jpeg", "vegfood/34.jpeg"],
+      "selling_price": 80,
+      "original_price": 95,
+      "quantity": "1/2 plate",
+      "ingredients": ["Rice", "Mixed Vegetables", "Spices", "Oil"],
+      "nutrition": { "calories": 275, "protein": 6, "fats": 5, "carbs": 40 }
+    },
+
+    {
+      "id": 27,
+      "name": "Paneer Biryani (Full)",
+      "images": ["vegfood/35.jpeg", "vegfood/36.jpeg"],
+      "selling_price": 180,
+      "original_price": 220,
+      "quantity": "1 plate",
+      "ingredients": ["Rice", "Paneer", "Spices", "Masala", "Oil"],
+      "nutrition": { "calories": 650, "protein": 20, "fats": 18, "carbs": 85 }
+    },
+    {
+      "id": 28,
+      "name": "Paneer Biryani (Half)",
+      "images": ["vegfood/35.jpeg", "vegfood/36.jpeg"],
+      "selling_price": 100,
+      "original_price": 120,
+      "quantity": "1/2 plate",
+      "ingredients": ["Rice", "Paneer", "Spices", "Masala", "Oil"],
+      "nutrition": { "calories": 325, "protein": 10, "fats": 9, "carbs": 42 }
+    },
+
+    {
+      "id": 29,
+      "name": "Mushroom Biryani (Full)",
+      "images": ["vegfood/37.jpeg", "vegfood/38.jpeg"],
+      "selling_price": 210,
+      "original_price": 250,
+      "quantity": "1 plate",
+      "ingredients": ["Rice", "Mushroom", "Spices", "Onion", "Oil"],
+      "nutrition": { "calories": 680, "protein": 18, "fats": 16, "carbs": 90 }
+    },
+    {
+      "id": 30,
+      "name": "Mushroom Biryani (Half)",
+      "images": ["vegfood/37.jpeg", "vegfood/38.jpeg"],
+      "selling_price": 120,
+      "original_price": 145,
+      "quantity": "1/2 plate",
+      "ingredients": ["Rice", "Mushroom", "Spices", "Onion", "Oil"],
+      "nutrition": { "calories": 340, "protein": 9, "fats": 8, "carbs": 45 }
+    },
+
+    {
+      "id": 31,
+      "name": "Veg Fried Rice (Full)",
+      "images": ["vegfood/39.jpeg", "vegfood/40.jpeg"],
+      "selling_price": 100,
+      "original_price": 120,
+      "quantity": "1 plate",
+      "ingredients": ["Rice", "Carrot", "Beans", "Corn", "Soy Sauce"],
+      "nutrition": { "calories": 500, "protein": 10, "fats": 10, "carbs": 75 }
+    },
+
+    {
+      "id": 32,
+      "name": "Veg Noodles (Full)",
+      "images": ["vegfood/41.jpeg", "vegfood/42.jpeg"],
+      "selling_price": 120,
+      "original_price": 145,
+      "quantity": "1 plate",
+      "ingredients": ["Noodles", "Veggies", "Soy Sauce", "Oil"],
+      "nutrition": { "calories": 550, "protein": 12, "fats": 12, "carbs": 78 }
+    },
+
+    {
+      "id": 33,
+      "name": "Veg Palav (Full)",
+      "images": ["vegfood/43.jpeg", "vegfood/44.jpeg"],
+      "selling_price": 110,
+      "original_price": 130,
+      "quantity": "1 plate",
+      "ingredients": ["Rice", "Vegetables", "Spices", "Oil"],
+      "nutrition": { "calories": 520, "protein": 12, "fats": 8, "carbs": 82 }
+    },
+
+    {
+      "id": 34,
+      "name": "Cashew Veg Biryani (Full)",
+      "images": ["vegfood/45.jpeg", "vegfood/46.jpeg"],
+      "selling_price": 180,
+      "original_price": 220,
+      "quantity": "1 plate",
+      "ingredients": ["Rice", "Cashews", "Vegetables", "Ghee", "Spices"],
+      "nutrition": { "calories": 700, "protein": 14, "fats": 20, "carbs": 95 }
+    },
+    {
+      "id": 35,
+      "name": "Soya Chunk Biryani (Full)",
+      "images": ["vegfood/47.jpg", "vegfood/48.jpg"],
+      "selling_price": 150,
+      "original_price": 200,
+      "quantity": "1 plate",
+      "ingredients": ["Rice", "Cashews", "Soya","Vegetables", "Ghee", "Spices"],
+      "nutrition": { "calories": 700, "protein": 20, "fats": 20, "carbs": 95 }
+    },
+    {
+      "id": 36,
+      "name": "Mixed Veg Biryani (Full)",
+      "images": ["vegfood/49.jpg", "vegfood/50.jpg"],
+      "selling_price": 180,
+      "original_price": 220,
+      "quantity": "1 plate",
+      "ingredients": ["Rice", "Cashews", "Vegetables", "Soya","Panner","Ghee", "Spices"],
+      "nutrition": { "calories": 800, "protein": 19, "fats": 25, "carbs": 110 }
+    }
 
   ]
 }
+
